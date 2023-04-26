@@ -1,0 +1,5 @@
+PyCity analysis Summary:
+
+PyCity data is broken down into District and School summaries. The District Summary summarizes all fifteen schools, with only 7 that are at the district level. The total budget comes out to $24,649,428 with total of 39,170 students. 65.17% of all the students within the district passed the Math and Reading tests. It was observable that charter schools had a greater overall passing rate with Cabrera High School having the best overall passing rate (91.33%). 
+The School summary helped delineate differences between Charter schools and District schools.  It was observable that even though charter schools had lesser budgets per student, they had higher passing percentages. The Charter schools had overall higher math and reading scores on average (83.47% and 83.90%) respectively, while district schools trailed at merely 76.96% and 80.96% average math and reading scores. Something that stuck out was that district schools had an overall passing rate of 53.67% as opposed to 90.43% for charter schools. 
+	
